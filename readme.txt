@@ -7,7 +7,7 @@ This is project.
 
 git add .
 
-git commit -m "×¢ÊÍÄÚÈİ"
+git commit -m "æ³¨é‡Šå†…å®¹"
 
 git remote add origin https://github.com/zcjgithub123/myblog.git
 
